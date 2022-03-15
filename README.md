@@ -8,7 +8,7 @@ ITZY is a girl group under JYP Entertainment. They made their debut with the sin
 
 ### Dalla Dalla
 
-[https://youtu.be/pNfTK39k55U]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pNfTK39k55U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The intro does a great job of visually and verbally introducing the girls and what the group is all about.   If you don't speak Korean, the words in this hook will help you understand what the rest of the song is about. 'I love myself' demonstrates how the girls are uplifting and individual, pushing the concept of the new wave of modern girl groups that are focused on the concept of confidence.
 
