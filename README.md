@@ -14,9 +14,32 @@ The intro does a great job of visually and verbally introducing the girls and wh
 
 ### ICY
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zndvqTc4P9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Description
 
+### Wannabe
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fE2h3lGlOsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Description
 
+### Not Shy
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wTowEKjDGkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Description
+
+### Mafia In the Morning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ysomCGaZLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Description
+
+### Loco
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MjCZfZfucEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Description
+
+*By: Shen Keziah L. De La Rosa (9-Gonzalez)
