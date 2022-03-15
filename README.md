@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Shen's Github Page
 
-You can use the [editor on GitHub](https://github.com/shnndlr/shnndlr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this page, I will talk about the song meanings of the kpop girl group **'ITZY'**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introducing ITZY!
 
-### Markdown
+ITZY is a girl group under JYP Entertainment. They made their debut with the single "It'z Different" on February 11, 2019. Yeji, Lia, Ryujin, Chaeryeong, and Yuna are the group's five members. On January 31, 2019, a music video teaser was released, announcing the group's debut on February 11, 2019 with the single "It'z Different" and its title track "Dalla Dalla." 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dalla Dalla
 
-```markdown
-Syntax highlighted code block
+[https://youtu.be/pNfTK39k55U]
 
-# Header 1
-## Header 2
-### Header 3
+The intro does a great job of visually and verbally introducing the girls and what the group is all about.   If you don't speak Korean, the words in this hook will help you understand what the rest of the song is about. 'I love myself' demonstrates how the girls are uplifting and individual, pushing the concept of the new wave of modern girl groups that are focused on the concept of confidence!
 
-- Bulleted
-- List
+### ICY
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shnndlr/shnndlr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
